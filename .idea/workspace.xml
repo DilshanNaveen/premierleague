@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4144c14-abe3-4e9f-8e2d-07bcfcb7cd75" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ui/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/ui/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ui" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="Play2ProjectSettings">
+    <option name="LANGUAGE_IMPORTS">
+      <array>
+        <option value="_root_.play.twirl.api.Xml" />
+        <option value="_root_.play.twirl.api.Html" />
+        <option value="java.lang._" />
+        <option value="play.mvc._" />
+        <option value="_root_.play.twirl.api.Txt" />
+        <option value="play.api.data.Field" />
+        <option value="play.data._" />
+        <option value="scala.jdk.CollectionConverters._" />
+        <option value="_root_.play.twirl.api.JavaScript" />
+        <option value="play.api.templates.PlayMagic._" />
+        <option value="play.core.j.PlayMagicForJava._" />
+        <option value="_root_.play.twirl.api.TwirlHelperImports._" />
+        <option value="play.core.j.PlayFormsMagicForJava._" />
+        <option value="java.util._" />
+        <option value="_root_.play.twirl.api.TwirlFeatureImports._" />
+      </array>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1mFI2VXqiDfsPH4a4dWPnNAeqbu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/services" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/ui/node_modules/protractor" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/ui/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="services" />
+      <recent name="models" />
+      <recent name="controllers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/services" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ui/src/app/Models" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Console">
+    <configuration name="Console" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="services.Console" />
+      <module name="premierleague" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in premierleague" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="premierleague" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FootballClubTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="premierleague" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="models" />
+      <option name="MAIN_CLASS_NAME" value="models.FootballClubTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatchComparatorByDateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="premierleague" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="services" />
+      <option name="MAIN_CLASS_NAME" value="services.MatchComparatorByDateTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatchComparatorByDateTest.compare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="premierleague" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="services" />
+      <option name="MAIN_CLASS_NAME" value="services.MatchComparatorByDateTest" />
+      <option name="METHOD_NAME" value="compare" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Console" />
+        <item itemvalue="JUnit.MatchComparatorByDateTest.compare" />
+        <item itemvalue="JUnit.MatchComparatorByDateTest" />
+        <item itemvalue="JUnit.All in premierleague" />
+        <item itemvalue="JUnit.FootballClubTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4144c14-abe3-4e9f-8e2d-07bcfcb7cd75" name="Default Changelist" comment="" />
+      <created>1609082708757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609082708757</updated>
+      <workItem from="1609082710591" duration="5928000" />
+      <workItem from="1609088678277" duration="2794000" />
+      <workItem from="1609138466344" duration="93000" />
+      <workItem from="1609152591947" duration="4346000" />
+      <workItem from="1609157463508" duration="51000" />
+      <workItem from="1609158137344" duration="4729000" />
+      <workItem from="1609178686744" duration="426000" />
+      <workItem from="1609226262518" duration="13903000" />
+      <workItem from="1609255239650" duration="122000" />
+      <workItem from="1609255992755" duration="30000" />
+      <workItem from="1609257956794" duration="2218000" />
+      <workItem from="1609306122738" duration="23806000" />
+      <workItem from="1609394115208" duration="57000" />
+      <workItem from="1609394535534" duration="5278000" />
+      <workItem from="1609406913993" duration="1106000" />
+      <workItem from="1609416323683" duration="1138000" />
+      <workItem from="1609444756583" duration="1176000" />
+      <workItem from="1609485807060" duration="193000" />
+      <workItem from="1609486759265" duration="2297000" />
+      <workItem from="1609578704258" duration="4909000" />
+      <workItem from="1609592751566" duration="2480000" />
+      <workItem from="1609595861783" duration="182000" />
+      <workItem from="1609597136336" duration="7174000" />
+      <workItem from="1609640164176" duration="2464000" />
+      <workItem from="1609649780638" duration="12621000" />
+      <workItem from="1609700840518" duration="807000" />
+      <workItem from="1609703384139" duration="15000" />
+      <workItem from="1610261712989" duration="281000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="196" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609153370982">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="304" y="196" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1609153370982" />
+    <state x="578" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609157346415">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="578" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.1025@0.25.1680.1025" timestamp="1609157346415" />
+    <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1609312055296">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser/0.25.1680.1025@0.25.1680.1025" timestamp="1609312055296" />
+    <state x="578" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609157362076">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="578" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1609157362076" />
+    <state x="578" y="288" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1609307914170">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="578" y="288" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1609307914170" />
+    <state width="1638" height="351" key="GridCell.Tab.0.bottom" timestamp="1610261995251">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="351" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1610261995251" />
+    <state width="1638" height="351" key="GridCell.Tab.0.center" timestamp="1610261995249">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="351" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1610261995249" />
+    <state width="1638" height="351" key="GridCell.Tab.0.left" timestamp="1610261995248">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="351" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1610261995248" />
+    <state width="1638" height="351" key="GridCell.Tab.0.right" timestamp="1610261995250">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="351" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1610261995250" />
+    <state width="1638" height="342" key="GridCell.Tab.1.bottom" timestamp="1609613903041">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.1.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1609613903041" />
+    <state width="1638" height="342" key="GridCell.Tab.1.center" timestamp="1609613903041">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.1.center/0.25.1680.1025@0.25.1680.1025" timestamp="1609613903041" />
+    <state width="1638" height="342" key="GridCell.Tab.1.left" timestamp="1609613903041">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.1.left/0.25.1680.1025@0.25.1680.1025" timestamp="1609613903041" />
+    <state width="1638" height="342" key="GridCell.Tab.1.right" timestamp="1609613903041">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="342" key="GridCell.Tab.1.right/0.25.1680.1025@0.25.1680.1025" timestamp="1609613903041" />
+    <state x="349" y="173" key="SettingsEditor" timestamp="1609673599670">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="349" y="173" key="SettingsEditor/0.25.1680.1025@0.25.1680.1025" timestamp="1609673599670" />
+    <state x="609" y="243" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1609678216614">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="609" y="243" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1609678216614" />
+    <state x="578" y="290" key="extract.method.dialog" timestamp="1609317476879">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="578" y="290" key="extract.method.dialog/0.25.1680.1025@0.25.1680.1025" timestamp="1609317476879" />
+    <state x="246" y="157" key="new project wizard" timestamp="1609672181883">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="246" y="157" key="new project wizard/0.25.1680.1025@0.25.1680.1025" timestamp="1609672181883" />
+    <state x="619" y="351" key="org.jetbrains.plugins.scala.testingSupport.ScalaTestCreator$$anon$1$$anon$2" timestamp="1609613740507">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="619" y="351" key="org.jetbrains.plugins.scala.testingSupport.ScalaTestCreator$$anon$1$$anon$2/0.25.1680.1025@0.25.1680.1025" timestamp="1609613740507" />
+    <state x="505" y="252" width="670" height="676" key="search.everywhere.popup" timestamp="1609679119718">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="505" y="252" width="670" height="676" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1609679119718" />
+  </component>
+</project>

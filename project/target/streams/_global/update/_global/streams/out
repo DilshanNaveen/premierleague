@@ -1,0 +1,5 @@
+[warn] sbt-plugin.jar no longer exists at /Users/dilshannaveen/Library/Caches/Coursier/v1/https/repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.play/sbt-plugin/scala_2.12/sbt_1.0/2.8.7/jars/sbt-plugin.jar
+[debug] "not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/Users/dilshannaveen/Documents/GitHub/Course%20Works/premierleague/project/"), "premierleague-build")...
+[debug] Done updating ProjectRef(uri("file:/Users/dilshannaveen/Documents/GitHub/Course%20Works/premierleague/project/"), "premierleague-build")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
